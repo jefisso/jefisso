@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jefisso, I'm a 27-brazilian-guy currently living in Italy
+- 👋 Hi, I’m @jefisso, I'm a 27-brazilian-guy, graphic designer, currently living in Italy
 - 👀 I’m interested in work with web development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently building my portfolio with html, css e a little bit of java
 - 💞️ I’m looking to collaborate on web design projects, animations and illustrations
 - 📫 You can reach me by e-mail: simjeferson@gmail.com or say hello on Instagram @jefisso
 
